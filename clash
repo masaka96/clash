@@ -11,7 +11,7 @@ surge_ruleset=全球直连,[]GEOIP,CN
 surge_ruleset=Netflix,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
 surge_ruleset=YouTube,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 
-custom_proxy_group=节点选择`select`[]🇭🇰`[]🇹🇼`[]🇸🇬`[]🇺🇲 `[]DIRECT
+custom_proxy_group=节点选择`select`[]🇭🇰`[]🇹🇼`[]🇸🇬`[]🇺🇲`[]DIRECT
 custom_proxy_group=Emby`select`[]🇭🇰`[]🇹🇼`[]🇸🇬`[]DIRECT
 custom_proxy_group=Netflix`select`[]🇸🇬`[]🇭🇰`[]🇹🇼`[]DIRECT
 custom_proxy_group=YouTube`select`[]🇸🇬`[]🇭🇰`[]🇹🇼`[]DIRECT
