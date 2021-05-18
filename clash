@@ -1,7 +1,7 @@
 ruleset=节点选择,rules/ACL4SSR/Clash/ProxyLite.list
 ruleset=Netflix,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
 ruleset=YouTube,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
-ruleset=Ⓜ️ 微软服务,rules/ACL4SSR/Clash/Microsoft.list
+ruleset=微软服务,rules/ACL4SSR/Clash/Microsoft.list
 ruleset=Emby,https://raw.githubusercontent.com/Moriarty-989/TaoWa/TaoWa/TaoWaPeiZhi/listes/Clash/Rule/Emby.ini
 ruleset=全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 ruleset=全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
