@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-KEYWORD,steamstore
 DOMAIN-KEYWORD,steamuserimages
 DOMAIN-KEYWORD,steambroadcast
+DOMAIN-SUFFIX,steampipe.akamaized.net
 # 内容：Epic
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,helpshift.com
